@@ -3,6 +3,9 @@
 This repository contains a MATLAB pipeline for **codon usage analysis and optimization** of coding DNA sequences (CDS).  
 The pipeline allows you to compare codon usage of an input gene against reference codon profiles and to generate a recoded version of the gene optimized toward a specified codon usage bias (e.g. ribosomal genes, horizontally transferred genes, or custom codon tables).  
 
+[![DOI](https://zenodo.org/badge/1052128547.svg)](https://doi.org/10.5281/zenodo.17072593)
+
+
 ---
 
 ## ✨ Features
@@ -82,3 +85,6 @@ The `example/` folder provides test files:
 ## 📜 License
 
 MIT License. Feel free to use, modify, and share.  
+
+
+DOI: [![DOI](https://zenodo.org/badge/1052128547.svg)](https://doi.org/10.5281/zenodo.17072593)
