@@ -40,9 +40,19 @@ The pipeline allows you to compare codon usage of an input gene against referenc
 - `Fun_Fred_Codontable_comparison.m` – compare two codon usage tables (bar + scatter plots).  
 - `Fun_Fred_scatter_reg.m` – scatter plot with regression line and R².  
 - `Fun_Fred_Reg_Linear.m` – linear regression helper.  
-- `Fun_Fred_Codongraphs.m` – bar graph visualization of codon usage.  
+- `Fun_Fred_Codongraphs.m` – bar graph visualization of codon usage.
+- 'Example folder' containing mNeonGreen cds and resulting optimized sequence mNeonGreen_Optiseq.txt
 
 ---
+
+## 📖 Example
+
+The `example/` folder provides test files:  
+
+- `mNeonGreen.txt` – input CDS (wild-type sequence).  
+- `ribosomal_codon_table.txt` – example codon usage bias (ribosomal genes).  
+- `mNeonGreen_optiseq.txt` – optimized version of mNeonGreen generated with the pipeline.  
+
 
 ## 🚀 Usage
 
